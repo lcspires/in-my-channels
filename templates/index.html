@@ -1,30 +1,24 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>In My Channels</title>
-  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>In My Channels</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
 </head>
 <body>
-  <div class="container">
-    <h1>In My Channels</h1>
+    <div class="container">
+        <h1>In My Channels</h1>
+        <p>Search for videos on channels you're subscribed to.</p>
 
-    <section>
-      <h2>canais inscritos (mock)</h2>
-      <ul id="channel-list"></ul>
-    </section>
+        <form id="search-form">
+            <input type="text" id="search-input" placeholder="Enter a term to search...">
+            <button type="submit">Search</button>
+        </form>
 
-    <section>
-      <h2>buscar vídeos (ex.: flask)</h2>
-      <form id="search-form">
-        <input type="text" id="search-input" placeholder="Digite uma palavra-chave..." required />
-        <button type="submit">Buscar</button>
-      </form>
-      <ul id="video-list"></ul>
-    </section>
-  </div>
+        <div id="results"></div>
+    </div>
 
-  <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
 </body>
 </html>

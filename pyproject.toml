@@ -1,6 +1,7 @@
 [project]
 name = "in-my-channels"
 version = "0.1.0"
+package-mode = false
 description = "Personalized video search."
 authors = [
     {name = "Lucas Pires",email = "lucasopf95@gmail.com"}
@@ -11,7 +12,10 @@ requires-python = ">=3.11,<3.14"
 dependencies = [
     "flask (>=3.1.2,<4.0.0)",
     "requests (>=2.32.5,<3.0.0)",
-    "python-dotenv (>=1.1.1,<2.0.0)"
+    "python-dotenv (>=1.1.1,<2.0.0)",
+    "google-auth (>=2.40.3,<3.0.0)",
+    "google-auth-oauthlib (>=1.2.2,<2.0.0)",
+    "google-auth-httplib2 (>=0.2.0,<0.3.0)"
 ]
 
 
