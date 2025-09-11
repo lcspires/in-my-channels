@@ -1,0 +1,34 @@
+Téo Me Why;SQL Dia 22 - SubQueries
+Téo Me Why;SQL Dia 23 - CTEs
+Téo Me Why;SQL Dia 24 - Exercícios
+Clube Full-Stack;Upload com Barra de Progresso: PHP + JavaScript + Alpine.js
+Gustavo Caetano;App Full-Stack do Zero - Parte 1: O Início
+Gustavo Caetano;App Full-Stack do Zero - Parte 2: Introdução aos Métodos HTTP
+Gustavo Caetano;App Full-Stack do Zero - Parte 3: Entendendo o CRUD
+Gustavo Caetano;App Full-Stack do Zero - Parte 4: Configuração do Empty Framework + Migração do Banco de Dados
+Gustavo Caetano;App Full-Stack do Zero - Parte 5: Método GET
+Thiago Mendes;Um CEO contra o trabalho remoto
+Hardware Redes Brasil;Como somar binários de forma fácil: Curso de IPV6 - Aula 7
+Tsoding Daily;I compiled SJ into x86_64 Assembly
+Matheus Leandro Ferreira;Reprovado em entrevista Sênior: não cometa esse erro
+Computação Crítica por Victor Osório;Vibe Coding Live X: Dashboard com Angular, IA e Muitos Erros
+Fronteiras da Engenharia de Software;Inside Erlang Battleground: A Live Talk with Brujo Benavides
+Rocketseat;Desafio de vaga Java Spring Boot: CRM do zero
+Diolinux;Bazzite
+Refatorando;Dev Júnior na Prática: Rotina
+Matheus Leal;Rede Mesh Ubiquiti
+João Ribeiro;API PHP PURO: CONEXÃO COM MYSQL - MEDOO
+leandronsp;CPU neural de 4-bit
+Computação Crítica por Victor Osório;Como reduzir a complexidade do seu código? Adicione abstrações! #Cafezinho #T01C47
+Jornada RPA;AULA 1 - O PRIMEIRO PASSO PARA SE TORNAR UM ESPECIALISTA EM PYTHON RPA
+Clube Full-Stack;Validação em Tempo Real com Livewire – Sem Recarregar a Página
+Matheus Leandro Ferreira;EU NÃO ACREDITO NO TEU SAAS (react @ProgramadorLhama)
+Augusto Galego;COMO IR DE DEV PLENO PRA SENIOR?
+João Alves;Como Fui Efetivado em Só 3 Meses de Empresa?
+Josh Cirre;Todo framework deve ter esse recurso do Nuxt
+CCN | Café com Notion;Como importar arquivos CSV (Excel) para o Notion (Atualização)
+Algoritmo & Café;O Currículo que me Tornou Programador
+Eduardo Mendes;Tradução da documentação com Rafael Fontenelle | Live de Python #296
+CFBCursos;Deletar, Renomear, Resetar: O Guia Definitivo do Git que Todo Dev Precisa Saber! - Aula 08
+Waine - Dev do Desempenho;Como conseguir a primeira vaga de dev? (CURRÍCULO DO JEITO RAIZ)
+

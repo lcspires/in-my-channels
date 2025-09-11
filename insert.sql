@@ -1,1 +1,1 @@
---INSERT INTO videos (canal, titulo) VALUES ('Carlos Nogueira DevOps', 'Tutorial de como configurar de forma local o OpenSearch - OpenSearch : Getting Started')
+--INSERT INTO videos (canal, titulo) VALUES ('Clube Full-Stack', 'Nuxt - Implementando Dark Mode')
