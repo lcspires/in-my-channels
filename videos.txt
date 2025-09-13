@@ -1,84 +1,50 @@
-PycodeBR;API completa com Python, Django e DRF (parte 2) | py_live #015
-PycodeBR;Começando no Django | py_live #002
-PycodeBR;Como integrar Django com a Inteligência Artificial do ChatGPT
-PycodeBR;O que são Laços de Repetição? - #027 - FOR e WHILE no Python
-PycodeBR;O que são Variáveis de Ambiente? - #026 - Variáveis de Ambiente no Python
-PycodeBR;Python para Web Scraping - #025 - Web Scraping com Python
-PycodeBR;Strings e seus Métodos em Python - #024 - Tudo sobre strings em Python
-PycodeBR;Melhores IDEs e Editores de Código para Python - #023
-PycodeBR;Melhores Bibliotecas e Frameworks Python - #022 - Libs e Frameworks Python
-PycodeBR;Compreensão de Listas em Python - #021 - List Comprehension Python
-PycodeBR;Como conectar um Banco de Dados na Api Flask Python - #020 - Api Flask + MySQL + Python
-PycodeBR;Como criar uma Api com Flask + Python - #019 - Api Rest com Python + Flask
-PycodeBR;Como gerar arquivos PDFs com Python - #018 - Criando PDFs com Python
-PycodeBR;Automatizando o envio de emails com Python - #017 - Envio de emails em massa
-PycodeBR;Analisando valores de Ações da Ibovespa com Python + Selenium - Parte 3 - #016 - Projeto Prático
-PycodeBR;Analisando valores de Ações da Ibovespa com Python + Selenium - Parte 2 - #015 - Projeto Prático
-PycodeBR;Analisando valores de Ações da Ibovespa com Python + Selenium - Parte 1 - #014 - Projeto Prático
-PycodeBR;Manipulando Excel com Python - #013 - Pandas e Excel com Python
-PycodeBR;Funções em Python - #012 - Entendendo Funções em Python
-PycodeBR;Ambientes Virtuais no Python - #011 - Entendendo Ambientes Virtuais
-PycodeBR;Operadores Lógicos no Python - #010 - Entendendo Operadores Lógicos
-PycodeBR;O que é PIP em Python? - #009 - Entendendo o PIP Python
-PycodeBR;Dicionários e seus Métodos em Python - #008 - Tudo sobre Dicionários em Python
-PycodeBR;Listas e seus Métodos em Python - #007 - Tudo sobre listas em Python
-PycodeBR;Programação Orientada a Objetos com Python - #006 - POO Python fácil
-PycodeBR;Api Rest Serverless na AWS com Chalice Framework - #005
-PycodeBR;Como fazer uma Automação com Python e BotCity Framework - #004 - RPA e Automação Web
-PycodeBR;Como fazer uma Automação Web com Python e Selenium - #003 - RPA e Automação Web
-PycodeBR;Top 5 Extensões para o VSCode - Explorando o VSCode - #002 - Começando pelo começo!
-PycodeBR;Como instalar o Python e o VS Code - #001 - Começando pelo começo!
-PycodeBR;Automações com Python e Kestra | py_live #056
-PycodeBR;Frameworks de IA: guia de sobrevivência | py_live #055
-PycodeBR;Consumo de APIs com Python | py_live #054
-PycodeBR;Programação Assíncrona com Python: teoria e prática | py_live #053
-PycodeBR;Agente de Inteligência Artificial com Langchain e MCP | py_live #052
-PycodeBR;Explorando o Selenium: automações web com Python | py_live #051
-PycodeBR;Explorando o FastAPI do zero ao primeiro projeto (parte 2) | py_live #050
-PycodeBR;Explorando o FastAPI do zero ao primeiro projeto (parte 1) | py_live #049
-PycodeBR;Estruturas de dados no Python: Guia de sobrevivência | py_live #048
-PycodeBR;Strings no Python: declaração e formatação | py_live #047
-PycodeBR;API de WhatsApp com Python: Exemplo prático com EvolutionApi | py_live #046
-PycodeBR;Papo aberto: pergunte o que quiser sobre programação | py_live #045
-PycodeBR;Como organizar um projeto Python | py_live #044
-PycodeBR;Como começar a aprender Python do jeito certo | py_live #043
-PycodeBR;Sistema e API de Estacionamento com Python e Django do Zero (parte 4) | Backend Raiz | py_live #042
-PycodeBR;Sistema e API de Estacionamento com Python e Django do Zero (parte 3) | Backend Raiz | py_live #041
-PycodeBR;Sistema e API de Estacionamento com Python e Django do Zero (parte 2) | Backend Raiz | py_live #040
-PycodeBR;Sistema e API de Estacionamento com Python e Django do Zero (parte 1) | Backend Raiz | py_live #039
-PycodeBR;Mensageria e Computação Distribuída com Python | py_live #038
-PycodeBR;Introdução ao Pandas e suas estruturas de dados | py_live #037
-PycodeBR;Extraindo dados de PDFs com Python e Inteligência Artificial - Guia Completo | py_live #036
-PycodeBR;Padrões de projeto criacionais com Python | py_live #035
-PycodeBR;Padrões de projeto com Python | Singleton | py_live #034
-PycodeBR;Como montar um servidor caseiro | py_live #033
-PycodeBR;Testes Unitários com Python do zero | py_live #032
-PycodeBR;Web Scraping com Python e Inteligência Artificial | py_live #031
-PycodeBR;O que estudar na área da programação em 2025? | py_live #030
-PycodeBR;Webhooks para Integrações de Sistemas | py_live #029
-PycodeBR;Sistemas com Flet-FastAPI | py_live #028
-PycodeBR;Aplicativo de Inteligência Artificial com Python e Flet | py_live #027
-PycodeBR;Agente de Inteligência Artificial para gestão de planilhas com Python | py_live #026
-PycodeBR;Assistente de Inteligência Artificial com Python e Django | parte 2 | py_live #025
-PycodeBR;Assistente de Inteligência Artificial com Python e Django | parte 1 | py_live #024
-PycodeBR;Aplicativos com Flet do Zero: teoria e prática | py_live #023
-PycodeBR;Fluxos de Inteligência Artificial com Langflow | py_live #022
-PycodeBR;ChatBot para WhatsApp com Python e Inteligência Artificial (parte 2) | py_live #021
-PycodeBR;ChatBot para WhatsApp com Python e Inteligência Artificial (parte 1) | py_live #020
-PycodeBR;Integrações de APIs com Python | py_live #019
-PycodeBR;Criando uma API de Inteligência Artificial com Python + FastAPI + LangServe | py_live #018
-PycodeBR;Aplicações de Inteligência Artificial com Python e LangChain | py_live #017
-PycodeBR;Deploy de aplicações Python e Django | teoria e prática | py_live #016
-PycodeBR;API completa com Python, Django e DRF (parte 1) | py_live #014
-PycodeBR;Sistemas completos com Django Admin | py_live #013
-PycodeBR;Docker e Docker Compose na prática | dockerizando uma aplicação Django com Celery | py_live #012
-PycodeBR;Distribuição e agendamento de tarefas com Django e Celery | py_live #011
-PycodeBR;Distribuição e agendamento de tarefas com Python e Celery | py_live #010
-PycodeBR;Sistemas Multi Tenant: o que são e como criar um com Python e Django? | py_live #009
-PycodeBR;Web Scraping com Python: a maneira correta de fazer raspagem de dados | py_live #008
-PycodeBR;Docker do zero: dockerizando uma aplicação Python e Django | py_live #007
-PycodeBR;Web apps com Streamlit Python | py_live #006
-PycodeBR;API com Python, Django e DRF na prática | py_live #005
-PycodeBR;Explorando o Playwright | py_live #004
-PycodeBR;APIs serverless com Python AWS lambdas | py_live #003
-PycodeBR;Como se tornar um programador Python? | py_live #001
+Serliv;Analisando Usabilidade, Responsividade, HTML e CSS do trabalho de um Aluno
+JAVAPRO;Escape from Legacy Hell: A Java App Cloud Transformation | Lucas Stramandinoli & Tino Reichardt (EN)
+Idently;3: The cool trick to reshaping NumPy arrays
+Fronteiras da Engenharia de Software;Gleam, as a canvas for laying out concepts, with Raúl Chouza
+Fronteiras da Engenharia de Software;Uma introdução a Potigol, com Leonardo Lucena
+Fronteiras da Engenharia de Software;Inside Erlang Battleground: A Conversation with Brujo Benavides
+Erick Wendel;OpenTelemetry na Prática: Monitore Qualquer App com Custo Zero
+DioLinux;openSUS 16 Leap
+Matheus Leal;COMO INSTALAR O GRAFANA (PASSO A PASSO COMPLETO)
+Matheus Leal;Desafio de vaga Java Spring Boot: construa um CRM do zero
+Rocketseat;Bun & Elysia (API com Bun e Better Auth)
+Téo me Why;Aprenda SQL - Dia 21: EXERCÍCIOS
+Téo me Why;Aprenda SQL - Dia 22: SubQueries
+Téo me Why;Aprenda SQL - Dia 23: CTEs
+Téo me Why;Aprenda SQL - Dia 24: EXERCÍCIOS
+Téo me Why;Aprenda SQL - Dia 25: ENUMERANDO LINHAS
+Téo me Why;Aprenda SQL - Dia 26: WINDOW FUNCTIONS
+Téo me Why;Aprenda SQL - Dia 27: EXERCÍCIOS
+Téo me Why;Aprenda SQL - Dia 28: DDL e DML
+Téo me Why;Aprenda SQL - Dia 29: PROJETO FINAL
+João Ribeiro;API PHP PURO #01 | GERAR DADOS FAKE
+João Ribeiro;API PHP PURO #03 | FORMATO JSON - PADRÃO MAIS USADO
+João Ribeiro;API PHP PURO #04 | HTTP CLIENTS - Postman
+Prof. Juliano Ramos;Gravando terminal com Asscinnema
+Prof. Juliano Ramos;Instale o Mac OS, Windows Insider e Distros Linux com virtualização
+Prof. Juliano Ramos;Remover para a Lixeira pelo CLI
+Prof. Juliano Ramos;Linux Mint/Debian: Como Ter um Kernel Mais Agressivo
+DATA ICMC;Aula 2 - Curso SQL
+DATA ICMC;Aprendizado por Reforço - Aula 4 - Monte Carlo
+Gustavo Caetano;APP FULL-STACK DO ZERO - O INÍCIO #1
+Gustavo Caetano;Introdução aos métodos HTTP - APP FULL-STACK DO ZERO #2
+Gustavo Caetano;Entendendo o CRUD - APP FULL-STACK DO ZERO #3
+Gustavo Caetano;Configuração do Entity Framework + Migração do Banco de Dados - APP FULL-STACK DO ZERO #4
+Gustavo Caetano;Método GET - APP FULL-STACK DO ZERO #5
+Gustavo Caetano;Método POST - APP FULL-STACK DO ZERO #6
+Gustavo Caetano;Método PUT - APP FULL-STACK DO ZERO #7
+Gustavo Caetano;Método DELETE - APP FULL-STACK DO ZERO #8
+Gustavo Caetano;Método Documentação com SWAGGER - APP FULL-STACK DO ZERO #9
+Clube Full-Stack;Upload com Barra de Progresso: PHP + JavaScript + Alpine.js
+Clube Full-Stack;Nuxt: Criando Sistema de Busca – Aula 22
+Clube Full-Stack;Validação em Tempo Real com Livewire – Sem Recarregar a Página
+Computação Crítica por Victor Osório;Vibe Coding Live X: Dashboard com Angular, IA e Muitos Erros!
+LINUXtips;APRENDA GitHub Actions fazendo! Projeto prático + certificado GRÁTIS
+Rodrigo Gonçalves;EXPO SDK 54: Builds iOS mais rápidas, GlassEffect, Android 16, Reanimated v4.
+JORNADA RPA;AULA 3 - TORNE-SE UM ESPECIALISTA EM PYTHON RPA
+JORNADA RPA;AULA 2 - Usando RestAPI em seu robô Python RPA
+Matheus Leandro Ferreira;TUDO QUE EU SEI - CURSO COMPLETO DE JAVA (AULA 1)
+leandronsp;live coding
+Coffe + Software;Spring Security contributor Josh Cummings
+Bóson Treinamentos;Engenharia de Prompt - Prompts Básicos, Exemplos e Exercícios - 02
