@@ -1,0 +1,4 @@
+bancos
+clientes
+contas
+operacoes
