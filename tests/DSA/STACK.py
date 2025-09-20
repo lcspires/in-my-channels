@@ -95,6 +95,9 @@ def main():
             else:
                 print("A pilha não está vazia.")
                 
+        elif opcao == "6":
+            print(pilha)
+                
         elif opcao == "0":
             print("Saindo do programa...")
             break

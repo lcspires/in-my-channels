@@ -1,50 +1,76 @@
-Serliv;Analisando Usabilidade, Responsividade, HTML e CSS do trabalho de um Aluno
-JAVAPRO;Escape from Legacy Hell: A Java App Cloud Transformation | Lucas Stramandinoli & Tino Reichardt (EN)
-Idently;3: The cool trick to reshaping NumPy arrays
-Fronteiras da Engenharia de Software;Gleam, as a canvas for laying out concepts, with Raúl Chouza
+João Ribeiro;API PHP PURO #09 | RESPOSTAS COM ERRO
+João Ribeiro;API PHP PURO #08 | POSTMAN E VARIÁVEIS DE COLLECTION E ENVIRONMENT
+Clube Full-Stack;Git e GitHub - O Que São e Como Funcionam
+Clube Full-Stack;Obsidian + Git: Backup automático
+Clube Full-Stack;Nuxt do Zero: Proteja Seu Projeto com CSRF – Aula 25
+Data ICMC;Aula 5 - Aprendizado TD
+Data ICMC;Aula 03 - Preparação e Tratamento de Dados
+Dev Victor Navarro;Manual de Git e GitHub - Tudo que um Dev PRECISA SABER para Trabalhar Profissionalmente
+Dev Victor Navarro;Usando o DevTools como PROFISSIONAL - Aprenda as 4 Ferramentas MAIS IMPORTANTES para Programadores
+Fecoxa;Unboxing Ledger Stax: tecnologia cripto de outro nível
+Karine Lago;Tipos de Calendário no Power BI
+Low Level;rust is causing a lot of problems
+Introduce Tecnologia para Crescer;ZTNA na Prática com Microsoft: Segurança Moderna para Ambientes Corporativos
+Augusto Galego;Como Fazer Networking DE VERDADE sendo DEV
+Coffee + Software;Spring Batch lead Mahmoud Ben Hassine
+Computação Crítica por Victor Osório;Conversas sobre Arquitetura: O que é Arquitetura de Software? #Cafezinho T03C001
+Programador Lhama;VOCÊ NÃO SABE MEXER EM CÓDIGO LEGADO (remendos e pouca documentação)
+Rafael Lunardelli (O Pinguim do Laravel);[parte 3] Deploy com Docker (e sem dor): Aprenda de ponta a ponta
+Dev Eficiente;Feign + Spring: o detalhe básico que o Claude Code esqueceu de me contar
+Rocketseat;Criando um projeto com Bun, Elysia e Better Auth do ZERO
+Vitor Hugo Dev - DigitalBrickLayer;Node JS, Vulnerabilidades e Responsabilidades
+Refatorando;Esqueça os Frameworks: O Segredo Para Dominar a Programação Web Está Aqui
+Matheus Leal;CONFIGURAÇÃO DE VPN WIREGUARD NO CLOUD GATEWAY ULTRA (UCG)
+PycodeBR;Automações com Python e Kestra (parte 2) | py_live #057
+Programação Descomplicada | Linguagem C;Linguagem C++ | Aula 28 - POO: Ponteiro this
+Gustavo Kalau;VRF x VLAN - Entendendo as diferenças
+balta;Descubra o poder dos Embeddings: Integrando IA com seu código
+Idently;4: Indexing and slicing NumPy arrays
+Serlix;Footer SEMPRE no Fim da Página: O Guia COMPLETO com 3 Técnicas de CSS
+Attekita Dev;Transição de Carreira para Programação em 2025: As 5 Maiores Dúvidas Respondidas
+Hardware Redes Brasil;EXERCÍCIOS Proteja-se AGORA: Políticas de Segurança e como evitar Golpes!️Segurança M02 #aula02
+Matheus Leandro Ferreira;TUDO QUE EU SEI - CURSO COMPLETO DE JAVA (AULA 2)
+Matheus Leandro Ferreira;CUSTOMIZANDO ERROS NO JAVA SPRING BOOT
+Curso em Vídeo;Como Converter Sites e Documentos em Markdown
+Waine - Dev do Desempenho;Dá dinheiro ser Dev BAIXO NÍVEL?
 Fronteiras da Engenharia de Software;Uma introdução a Potigol, com Leonardo Lucena
-Fronteiras da Engenharia de Software;Inside Erlang Battleground: A Conversation with Brujo Benavides
-Erick Wendel;OpenTelemetry na Prática: Monitore Qualquer App com Custo Zero
-DioLinux;openSUS 16 Leap
-Matheus Leal;COMO INSTALAR O GRAFANA (PASSO A PASSO COMPLETO)
-Matheus Leal;Desafio de vaga Java Spring Boot: construa um CRM do zero
-Rocketseat;Bun & Elysia (API com Bun e Better Auth)
-Téo me Why;Aprenda SQL - Dia 21: EXERCÍCIOS
-Téo me Why;Aprenda SQL - Dia 22: SubQueries
-Téo me Why;Aprenda SQL - Dia 23: CTEs
-Téo me Why;Aprenda SQL - Dia 24: EXERCÍCIOS
-Téo me Why;Aprenda SQL - Dia 25: ENUMERANDO LINHAS
-Téo me Why;Aprenda SQL - Dia 26: WINDOW FUNCTIONS
-Téo me Why;Aprenda SQL - Dia 27: EXERCÍCIOS
-Téo me Why;Aprenda SQL - Dia 28: DDL e DML
-Téo me Why;Aprenda SQL - Dia 29: PROJETO FINAL
-João Ribeiro;API PHP PURO #01 | GERAR DADOS FAKE
-João Ribeiro;API PHP PURO #03 | FORMATO JSON - PADRÃO MAIS USADO
-João Ribeiro;API PHP PURO #04 | HTTP CLIENTS - Postman
-Prof. Juliano Ramos;Gravando terminal com Asscinnema
-Prof. Juliano Ramos;Instale o Mac OS, Windows Insider e Distros Linux com virtualização
-Prof. Juliano Ramos;Remover para a Lixeira pelo CLI
-Prof. Juliano Ramos;Linux Mint/Debian: Como Ter um Kernel Mais Agressivo
-DATA ICMC;Aula 2 - Curso SQL
-DATA ICMC;Aprendizado por Reforço - Aula 4 - Monte Carlo
-Gustavo Caetano;APP FULL-STACK DO ZERO - O INÍCIO #1
-Gustavo Caetano;Introdução aos métodos HTTP - APP FULL-STACK DO ZERO #2
-Gustavo Caetano;Entendendo o CRUD - APP FULL-STACK DO ZERO #3
-Gustavo Caetano;Configuração do Entity Framework + Migração do Banco de Dados - APP FULL-STACK DO ZERO #4
-Gustavo Caetano;Método GET - APP FULL-STACK DO ZERO #5
-Gustavo Caetano;Método POST - APP FULL-STACK DO ZERO #6
-Gustavo Caetano;Método PUT - APP FULL-STACK DO ZERO #7
-Gustavo Caetano;Método DELETE - APP FULL-STACK DO ZERO #8
-Gustavo Caetano;Método Documentação com SWAGGER - APP FULL-STACK DO ZERO #9
-Clube Full-Stack;Upload com Barra de Progresso: PHP + JavaScript + Alpine.js
-Clube Full-Stack;Nuxt: Criando Sistema de Busca – Aula 22
-Clube Full-Stack;Validação em Tempo Real com Livewire – Sem Recarregar a Página
-Computação Crítica por Victor Osório;Vibe Coding Live X: Dashboard com Angular, IA e Muitos Erros!
-LINUXtips;APRENDA GitHub Actions fazendo! Projeto prático + certificado GRÁTIS
-Rodrigo Gonçalves;EXPO SDK 54: Builds iOS mais rápidas, GlassEffect, Android 16, Reanimated v4.
-JORNADA RPA;AULA 3 - TORNE-SE UM ESPECIALISTA EM PYTHON RPA
-JORNADA RPA;AULA 2 - Usando RestAPI em seu robô Python RPA
-Matheus Leandro Ferreira;TUDO QUE EU SEI - CURSO COMPLETO DE JAVA (AULA 1)
-leandronsp;live coding
-Coffe + Software;Spring Security contributor Josh Cummings
-Bóson Treinamentos;Engenharia de Prompt - Prompts Básicos, Exemplos e Exercícios - 02
+João Ribeiro;API PHP PURO #07 | REQUEST METHODS
+João Ribeiro;API PHP PURO #06 | VERSIONAMENTO DA API
+LINUXtips;Descomplicando Github Actions - Resolvendo Desafio
+CFBCursos;Git Show: Desvende os SEGREDOS de CADA Commit! Visualize Alterações Detalhadas - Aula 09
+Augusto Galego;Recriando Apps Populares com IA + Python
+Programador Lhama;REVELEI TUDO! VALE A PENA ROCKETSEAT? MEU CONTRATO? PYTHON NA ROCKETSEAT?
+Clube Full-Stack;Nuxt + Laravel Scout: Buscando Dados com Facilidade – Aula 24
+Bóson Treinamentos;Engenharia de Prompt - Persona, Cenários, Estilo de Escrita - Exemplos e Exercícios - 03
+Computação Crítica por Victor Osório;Java 101: Gestão de Memória na JVM
+Computação Crítica por Victor Osório;Nunca faça Orientação a Objetos sem esse principio!!! #Cafezinho #T01C448 #SubstituiçãoLiskov
+Computação Crítica por Victor Osório;O que é ser um desenvolvedor profissional?!? #Cafezinho #T01C449
+Fronteiras da Engenharia de Software;Engenharia de Software Moderna, com Marco Tulio Valente (UFMG)
+Matheus Leal;COMO CONFIGURAR DDNS NO CLOUD GATEWAY UBIQUITI (PASSO A PASSO)
+Matheus Leandro Ferreira;Resolvendo Desafio de Vaga Sênior - Rede Globo
+Eduardo Mendes;Arquitetura de MicroKernel / Sistema de plugins com Pluggy | Live de Python #297
+Dev Erik;Refatorei a tela principal do meu app #03
+Hardware Redes Brasil;Proteja-se AGORA: Políticas de Segurança e como evitar Golpes!🛡️Curso de Segurança M02 #aula02
+Thiago Mendes;Produção e rendimento em tempos de IA!
+Jornada RPA;O que é o VENV no Python e como usar da maneira correta?
+Logic Lambda;Tipos de dados em Python
+Logic Lambda;Operadores aritméticos em Python: + - * / // % **
+João Ribeiro;API PHP PURO #05 | APONTAR PARA PASTA PUBLIC
+Karine Lago;Esqueça o ChatGPT! A Manus AI vai explodir sua mente
+SuperSimpleDev;React Full Course - Beginner to Pro (React 19, 2025)
+Dev Eficiente;Microsserviços | Benefícios e Desafios ao Adotar essa Arquitetura
+Low Level;everything is open source if you know reverse engineering (hack with me!)
+André Secco;Padronize as respostas das suas APIs
+balta;Semantic Kernel na Prática: Conectando IA ao Seu Código
+Attekita Dev;O Lado Obscuro dos Algoritmos: Como Eles Podem Criar Bolhas, Reforçar Comportamentos e Causar Danos
+Waine - Dev do Desempenho;STRINGS em C (e por que Python é péssimo nisso)
+Augusto Galego;Padrão SAGA | Orquestrando diferentes microsserviços
+Gustavo Caetano;ANDERSON BURNES: Tecnologia e Churrasco - Papinho Tech #117
+
+
+
+
+
+
+
+
